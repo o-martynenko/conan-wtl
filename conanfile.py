@@ -8,7 +8,7 @@ class WtlConan(ConanFile):
     name = "wtl"
     version = "10.0.7336"
     generators = "cmake"
-    url = "https://github.com/wi3ard/conan-wtl"
+    url = "https://github.com/o-martynenko/conan-poco"
     license = "MIT"
     description = "Windows Template Library (WTL)"
     exports_sources = ["LICENSE.md"]
